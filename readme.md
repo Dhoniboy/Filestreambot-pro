@@ -8,9 +8,9 @@
     <br />
    </strong></a>
     <br />
-    <a href="https://github.com/adarsh-goel/pro/issues">Report a Bug</a>
+    <a href="https://github.com/Dhoniboy/Filestreambot-pro">Report a Bug</a>
     |
-    <a href="https://github.com/adarsh-goel/filestreambot-pro/issues">Request Feature</a>
+    <a href="https://github.com/Dhoniboy/Filestreambot-pro">Request Feature</a>
   </p>
 
 
